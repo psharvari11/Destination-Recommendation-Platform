@@ -6,10 +6,12 @@ Project Type
 🖥️ Frontend
 
 Deployed App
-Frontend: https://stunning-paprenjak-0a9cfb.netlify.app/
+Frontend: WayFinder Live
 
 Directory Structure
-
+css
+Copy
+Edit
 project/
 ├─ src/
 │  ├─ components/
@@ -17,11 +19,13 @@ project/
 │  ├─ contexts/
 │  ├─ assets/
 │  ├─ ...
-
-
+Storage & Authentication
 Local Storage is used for user login (if applicable).
 
-React.js 
+Technology Stack
+React.js (Frontend framework)
+
+CSS (Styling)
 
 Installation & Getting Started
 Follow these steps to set up and run the project locally:
@@ -41,10 +45,7 @@ npm i react-router-dom
 npm run dev
 Usage
 Open the deployed app or run it locally.
+
 Browse recommended destinations.
-View detailed insights
-Technology Stack
-React.js (Frontend framework)
 
- CSS (Styling)
-
+View detailed insights.
