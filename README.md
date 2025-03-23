@@ -48,7 +48,3 @@ React.js (Frontend framework)
 
  CSS (Styling)
 
-Google APIs (Maps integration)
-
-Firebase (If authentication or database is used)
-
